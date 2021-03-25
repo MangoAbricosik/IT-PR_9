@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\IT-PR-9\IT-PR-9\bin\Debug\IT-PR-9.exe.config
+C:\Users\student\source\repos\IT-PR-9\IT-PR-9\bin\Debug\IT-PR-9.exe
+C:\Users\student\source\repos\IT-PR-9\IT-PR-9\bin\Debug\IT-PR-9.pdb
+C:\Users\student\source\repos\IT-PR-9\IT-PR-9\obj\Debug\IT-PR-9.csprojAssemblyReference.cache
+C:\Users\student\source\repos\IT-PR-9\IT-PR-9\obj\Debug\IT_PR_9.Form1.resources
+C:\Users\student\source\repos\IT-PR-9\IT-PR-9\obj\Debug\IT_PR_9.Properties.Resources.resources
+C:\Users\student\source\repos\IT-PR-9\IT-PR-9\obj\Debug\IT-PR-9.csproj.GenerateResource.cache
+C:\Users\student\source\repos\IT-PR-9\IT-PR-9\obj\Debug\IT-PR-9.exe
+C:\Users\student\source\repos\IT-PR-9\IT-PR-9\obj\Debug\IT-PR-9.pdb
